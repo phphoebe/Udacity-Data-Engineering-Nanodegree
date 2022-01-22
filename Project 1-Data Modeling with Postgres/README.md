@@ -25,6 +25,14 @@ Sparkify's Analytics team will be able to query the newly designed relational da
 
 ### Repository Structure 
 
+```
+data 
+notebook
+script
+```
+
+
+
 ### Database Schema 
 
 * #### Fact Table 
