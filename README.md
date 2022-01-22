@@ -31,10 +31,33 @@ Create cloud-based data warehouses. Sharpen your data warehousing skills, deepen
 * Introduction to the Cloud with AWS
 * Implementing Data Warehouses on AWS
 
-### Projects:
+### Project:
 * Project 3 - Build a Cloud Data Warehouse 
 
 
+## Course 3 - Spark and Data Lakes 
+Learn about the big data ecosystem and how to use Spark to work with massive datasets. Learn about how to store big data in a data lake and query it with Spark.
 
+### Lessons:
+* The Power of Spark
+* Data Wrangling with Spark
+* Debugging and Optimization
+* Introduction to Data Lakes
+
+### Project:
+* Project 4 - Build a Data Lake
+
+
+## Course 4 - Automoate Data Pipelines
+Learn to schedule, automate, and monitor data pipelines using Apache Airflow. Learn to run data quality checks, track data lineage, and work with data pipelines in production.
+
+### Lessons: 
+* Data Pipelines
+* Data Quality
+* Production Data Pipelines
+
+
+### Project:
+* Data Pipelines with Airflow
 
 [Program Syllabus](https://github.com/phphoebe/Udacity-Data-Engineering-Nanodegree/blob/master/Data%2BEngineering%2BNanodegree%2BProgram%2BSyllabus.pdf), more information about this program can be found by visiting [Udacity Data Engineering ND](https://www.udacity.com/course/data-engineer-nanodegree--nd027).
