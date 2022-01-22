@@ -1,5 +1,7 @@
 # Project 1 - Data Modeling with Postgres
 
+## Project Introduction: 
+
 #### Course Learning Outcomes:
 * Understand when to use a relational database
 * Understand the difference between OLAP and OLTP databases
@@ -12,3 +14,6 @@
 * Insert data into new tables.
 
 Sparkify's Analytics team will be able to query the newly designed relational database with ease to understand user behaviors such as what songs users are listening to.
+
+
+## Project Summary:
