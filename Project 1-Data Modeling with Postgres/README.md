@@ -27,6 +27,6 @@ Sparkify's Analytics team will be able to query the newly designed relational da
 
 ### Database Schema 
 
-#### ERD 
+#### Entity Relationship Diagram (ERD)
 
 ![](https://github.com/phphoebe/Udacity-Data-Engineering-Nanodegree/blob/master/Project%201-Data%20Modeling%20with%20Postgres/Sparkify%20ERD.png)
