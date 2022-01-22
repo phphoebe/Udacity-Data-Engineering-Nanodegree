@@ -27,6 +27,24 @@ Sparkify's Analytics team will be able to query the newly designed relational da
 
 ### Database Schema 
 
-#### Entity Relationship Diagram (ERD)
+* #### Fact Table 
+
+
+```
+songplays 
+          - songplay_id PRIMARY KEY
+          - start_time
+          - user_id
+          - level
+          - song_id
+          - artist_id
+          - session_id
+          - duration
+          - user_agent
+```
+
+* #### Dimension Tables
+
+* #### Entity Relationship Diagram (ERD)
 
 ![](https://github.com/phphoebe/Udacity-Data-Engineering-Nanodegree/blob/master/Project%201-Data%20Modeling%20with%20Postgres/Sparkify%20ERD.png)
