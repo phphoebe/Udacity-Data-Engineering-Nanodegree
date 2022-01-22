@@ -62,7 +62,7 @@ Learn to schedule, automate, and monitor data pipelines using Apache Airflow. Le
 
 
 ## Final Part - Data Engineering Capstone Project 
-Combine knowledge and skills learned throughout the program to build a more self-driven data engineering portfolio project.
+Combine skills learned throughout the program to build a more self-driven data engineering portfolio project.
 
 
 [Program Syllabus](https://github.com/phphoebe/Udacity-Data-Engineering-Nanodegree/blob/master/Data%2BEngineering%2BNanodegree%2BProgram%2BSyllabus.pdf), more information about this program can be found by visiting [Udacity Data Engineering ND](https://www.udacity.com/course/data-engineer-nanodegree--nd027).
