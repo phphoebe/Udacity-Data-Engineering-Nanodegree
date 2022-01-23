@@ -17,7 +17,7 @@ Sparkify's Analytics team will be able to query the newly designed relational da
 
 ## Project Summary
 
-### Repository Structure 
+### Project Structure 
 
 ```
 |____data
@@ -33,6 +33,9 @@ Sparkify's Analytics team will be able to query the newly designed relational da
 | |____etl.py
 | |____sql_queries.py
 ```
+
+> ***NOTE:** You will not be able to run `test.ipynb`, `etl.ipynb`, or `etl.py` until you have run `create_tables.py` at least once to create the sparkifydb database, which these other files connect to.*
+
 
 
 
