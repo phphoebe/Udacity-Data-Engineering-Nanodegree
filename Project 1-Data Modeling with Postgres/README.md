@@ -29,7 +29,7 @@ Sparkify's Analytics team will be able to query the newly designed relational da
 | |____test.ipnb                        # to test ETL builder
 |
 |____script
-| |____create_tables.py                 # script to create databases/tables
+| |____create_tables.py                 # script to create the Sparkify databases and the Fact & Dimension tables
 | |____etl.py                           # ETL pipeline builder
 | |____sql_queries.py                   # ETL pipeline builder help - DDL queries & Find Song DQL query
 ```
