@@ -34,6 +34,12 @@ Sparkify's Analytics team will be able to query the newly designed relational da
 | |____sql_queries.py                   # ETL pipeline builder help - DDL queries & Find Song DQL query
 ```
 
+
+### Steps to run the Python scripts
+1. Run `create_tables.py` in terminal to create/reset databases/tables using command ```python create_tables.py```
+2. Run `etl.py` in terminal to complete the ETL process using command ```python etl.py```
+
+
 > ***NOTE:** You will not be able to run `test.ipynb`, `etl.ipynb`, or `etl.py` until you have run `create_tables.py` at least once to create the sparkifydb database, which these other files connect to.*
 
 
