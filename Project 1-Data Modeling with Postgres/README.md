@@ -98,8 +98,8 @@ time
 
 
 ### Steps to run the Python scripts
-1. Run `create_tables.py` in terminal to create/reset databases/tables using command ```python create_tables.py```
-2. Run `etl.py` in terminal to complete the ***ETL process*** using command ```python etl.py```
+1. Run `create_tables.py` in the terminal to create/reset databases/tables using command ```python create_tables.py```
+2. Run `etl.py` in the terminal to complete the ***ETL process*** using command ```python etl.py```
 
 #### ETL Processes Explain
 * process the `song_data` dataset to create the `songs` and `artists` dimensional tables, and insert record into the tables
