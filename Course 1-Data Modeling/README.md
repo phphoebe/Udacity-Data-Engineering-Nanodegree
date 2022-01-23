@@ -11,7 +11,7 @@
 * Create normalized data tables
 * Implement denormalized schemas (e.g. STAR, Snowflake)
 
-### Lesson 3 - NoSQL Data Models
+### [Lesson 3 - NoSQL Data Models](https://github.com/phphoebe/Udacity-Data-Engineering-Nanodegree/tree/master/Course%201-Data%20Modeling/Lesson%203-NoSQL%20Data%20Models)
 * Understand when to use NoSQL databases and how they differ from reltaional databases
 * Select the approriate primary key and clustering columns for a given use case
 * Create a NoSQL database in Apache Cassandra
