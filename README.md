@@ -13,12 +13,12 @@ Design data models, build data warehouses and data lakes, automate data pipeline
 ## [Course 1 - Data Modeling](https://github.com/phphoebe/Udacity-Data-Engineering-Nanodegree/tree/master/Course%201-Data%20Modeling) 
 Create relational and NoSQL data models to fit the diverse needs of data consumers. Use ETL to build databases in PostgreSQL and Apache Cassandra.
 
-### Lessons:
+### Lessons
 * Introduction to Data Modeling 
 * Relational Data Models
 * NoSQL Data Models
 
-### Projects:
+### Projects
 * [Project 1 - Data Modeling with Postgres](https://github.com/phphoebe/Udacity-Data-Engineering-Nanodegree/tree/master/Project%201-Data%20Modeling%20with%20Postgres)
 * [Project 2 - Data Modeling with Apache Cassandra](https://github.com/phphoebe/Udacity-Data-Engineering-Nanodegree/tree/master/Project%202-Data%20Modeling%20with%20Apache%20Cassandra)
 
@@ -26,38 +26,38 @@ Create relational and NoSQL data models to fit the diverse needs of data consume
 ## Course 2 - Cloud Data Warehouses
 Create cloud-based data warehouses. Sharpen your data warehousing skills, deepen your understanding of data infrastructure, and be introduced to data engineering on the cloud using Amazon Web Services (AWS).
 
-### Lessons:
+### Lessons
 * Introduction to the Data Warehouses
 * Introduction to the Cloud with AWS
 * Implementing Data Warehouses on AWS
 
-### Project:
+### Project
 * Project 3 - Build a Cloud Data Warehouse 
 
 
 ## Course 3 - Spark and Data Lakes 
 Learn about the big data ecosystem and how to use Spark to work with massive datasets. Learn about how to store big data in a data lake and query it with Spark.
 
-### Lessons:
+### Lessons
 * The Power of Spark
 * Data Wrangling with Spark
 * Debugging and Optimization
 * Introduction to Data Lakes
 
-### Project:
+### Project
 * Project 4 - Build a Data Lake
 
 
 ## Course 4 - Automoate Data Pipelines
 Learn to schedule, automate, and monitor data pipelines using Apache Airflow. Learn to run data quality checks, track data lineage, and work with data pipelines in production.
 
-### Lessons: 
+### Lessons
 * Data Pipelines
 * Data Quality
 * Production Data Pipelines
 
 
-### Project:
+### Project
 * Data Pipelines with Airflow
 
 
