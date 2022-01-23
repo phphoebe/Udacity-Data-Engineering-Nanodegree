@@ -25,8 +25,8 @@ Sparkify's Analytics team will be able to query the newly designed relational da
 | |____song_data                        # metadata about a song and the artist of that song
 |
 |____notebook
-| |____etl.ipnb                         # ETL processes to develop ETL builder 
-| |____test.ipnb                        # to test ETL builder
+| |____etl.ipynb                        # ETL processes to develop ETL builder 
+| |____test.ipynb                       # to test ETL builder
 |
 |____script
 | |____create_tables.py                 # script to create the Sparkify databases and the Fact & Dimension tables
@@ -37,7 +37,12 @@ Sparkify's Analytics team will be able to query the newly designed relational da
 
 ### Steps to run the Python scripts
 1. Run `create_tables.py` in terminal to create/reset databases/tables using command ```python create_tables.py```
-2. Run `etl.py` in terminal to complete the ETL process using command ```python etl.py```
+2. Run `etl.py` in terminal to complete the ***ETL process*** using command ```python etl.py```
+
+#### ETL Processes Explain
+* process `song_data` dataset to create the `songs` and `artists` dimensional tables, and insert record into the tables;
+* process `log_data` dataset to to create the `time` and `users` dimensional tables, as well as the `songplays` fact table; and insert records into the tables;
+* run `test.ipynb` to confirm the creation of the tables with the correct columns, and to confirm that the records were successfully inserted into each table
 
 
 > ***NOTE:** You will not be able to run `test.ipynb`, `etl.ipynb`, or `etl.py` until you have run `create_tables.py` at least once to create the sparkifydb database, which these other files connect to.*
