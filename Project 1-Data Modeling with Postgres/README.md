@@ -21,17 +21,17 @@ Sparkify's Analytics team will be able to query the newly designed relational da
 
 ```
 |____data
-| |____long_data
-| |____song_data
+| |____log_data                         # simulated app user activity logs
+| |____song_data                        # metadata about a song and the artist of that song
 |
 |____notebook
-| |____etl.ipnb
-| |____test.ipnb
+| |____etl.ipnb                         # ETL processes to develop ETL builder 
+| |____test.ipnb                        # to test ETL builder
 |
 |____script
-| |____create_tables.py
-| |____etl.py
-| |____sql_queries.py
+| |____create_tables.py                 # script to create databases/tables
+| |____etl.py                           # ETL builder
+| |____sql_queries.py                   # DDL statements 
 ```
 
 > ***NOTE:** You will not be able to run `test.ipynb`, `etl.ipynb`, or `etl.py` until you have run `create_tables.py` at least once to create the sparkifydb database, which these other files connect to.*
