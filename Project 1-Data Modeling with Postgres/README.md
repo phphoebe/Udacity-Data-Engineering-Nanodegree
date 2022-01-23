@@ -26,9 +26,18 @@ Sparkify's Analytics team will be able to query the newly designed relational da
 ### Repository Structure 
 
 ```
-data 
-notebook
-script
+|____data
+| |____long_data
+| |____song_data
+|
+|____notebook
+| |____etl.ipnb
+| |____test.ipnb
+|
+|____script
+| |____create_tables.py
+| |____etl.py
+| |____sql_queries.py
 ```
 
 
