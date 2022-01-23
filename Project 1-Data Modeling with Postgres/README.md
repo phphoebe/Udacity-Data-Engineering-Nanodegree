@@ -17,7 +17,7 @@ Sparkify's Analytics team will be able to query the newly designed relational da
 
 ## Project Summary
 
-### Project Structure 
+### Project Files 
 
 ```
 |____data
