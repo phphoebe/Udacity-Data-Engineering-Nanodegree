@@ -20,7 +20,7 @@ Create relational and NoSQL data models to fit the diverse needs of data consume
 
 ### Projects:
 * [Project 1 - Data Modeling with Postgres](https://github.com/phphoebe/Udacity-Data-Engineering-Nanodegree/tree/master/Project%201-Data%20Modeling%20with%20Postgres)
-* Project 2 - Data Modeling with Apache Cassandra
+* [Project 2 - Data Modeling with Apache Cassandra](https://github.com/phphoebe/Udacity-Data-Engineering-Nanodegree/tree/master/Project%202-Data%20Modeling%20with%20Apache%20Cassandra)
 
 
 ## Course 2 - Cloud Data Warehouses
