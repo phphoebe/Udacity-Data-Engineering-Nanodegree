@@ -35,20 +35,6 @@ Sparkify's Analytics team will be able to query the newly designed relational da
 ```
 
 
-### Steps to run the Python scripts
-1. Run `create_tables.py` in terminal to create/reset databases/tables using command ```python create_tables.py```
-2. Run `etl.py` in terminal to complete the ***ETL process*** using command ```python etl.py```
-
-#### ETL Processes Explain
-* process `song_data` dataset to create the `songs` and `artists` dimensional tables, and insert record into the tables
-* process `log_data` dataset to to create the `time` and `users` dimensional tables, as well as the `songplays` fact table; and insert records into the tables
-* run `test.ipynb` to confirm the creation of the tables with the correct columns, and to confirm that the records were successfully inserted into each table
-
-
-> ***NOTE:** You will not be able to run `test.ipynb`, `etl.ipynb`, or `etl.py` until you have run `create_tables.py` at least once to create the sparkifydb database, which these other files connect to.*
-
-
-
 
 ### Database Schema 
 
@@ -108,3 +94,17 @@ time
 * #### Entity Relationship Diagram (ERD)
 
 ![](https://github.com/phphoebe/Udacity-Data-Engineering-Nanodegree/blob/master/Project%201-Data%20Modeling%20with%20Postgres/Sparkify%20ERD.png)
+
+
+
+### Steps to run the Python scripts
+1. Run `create_tables.py` in terminal to create/reset databases/tables using command ```python create_tables.py```
+2. Run `etl.py` in terminal to complete the ***ETL process*** using command ```python etl.py```
+
+#### ETL Processes Explain
+* process the `song_data` dataset to create the `songs` and `artists` dimensional tables, and insert record into the tables
+* process the `log_data` dataset to to create the `time` and `users` dimensional tables, as well as the `songplays` fact table; and insert records into the tables
+* run `test.ipynb` to confirm the creation of the tables with the correct columns, and to confirm that the records were successfully inserted into each table
+
+
+> ***NOTE:** You will not be able to run `test.ipynb`, `etl.ipynb`, or `etl.py` until you have run `create_tables.py` at least once to create the sparkifydb database, which these other files connect to.*
