@@ -3,7 +3,7 @@
 ## Project Introduction
 
 #### Description
-* Model user activity data (JSON) to create a database and ETL pipeline in Postgres for a music streaming app called Sparkify.
+* Model user activity data (JSON) to create a database and ETL pipeline in Postgres for a music streaming app startup called Sparkify.
 * Define Fact and Dimension tables for a STAR schema optimized for queries on song play analysis.  
 * Insert data into new tables.
 
