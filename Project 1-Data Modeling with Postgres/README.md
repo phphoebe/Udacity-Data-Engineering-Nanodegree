@@ -40,8 +40,8 @@ Sparkify's Analytics team will be able to query the newly designed relational da
 2. Run `etl.py` in terminal to complete the ***ETL process*** using command ```python etl.py```
 
 #### ETL Processes Explain
-* process `song_data` dataset to create the `songs` and `artists` dimensional tables, and insert record into the tables;
-* process `log_data` dataset to to create the `time` and `users` dimensional tables, as well as the `songplays` fact table; and insert records into the tables;
+* process `song_data` dataset to create the `songs` and `artists` dimensional tables, and insert record into the tables
+* process `log_data` dataset to to create the `time` and `users` dimensional tables, as well as the `songplays` fact table; and insert records into the tables
 * run `test.ipynb` to confirm the creation of the tables with the correct columns, and to confirm that the records were successfully inserted into each table
 
 
