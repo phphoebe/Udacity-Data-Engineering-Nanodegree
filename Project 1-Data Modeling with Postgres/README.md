@@ -30,7 +30,7 @@ Sparkify's Analytics team will be able to query the newly designed relational da
 |
 |____script
 | |____create_tables.py                 # script to create databases/tables
-| |____etl.py                           # ETL builder
+| |____etl.py                           # ETL pipeline builder
 | |____sql_queries.py                   # DDL statements 
 ```
 
